@@ -1,6 +1,6 @@
-# 🌱 Groot - A Lightweight Version Control System in 
+# 🌱 Groot - A Lightweight Version Control System
 
-Groot is a simple, educational version control system built using Node.js, inspired by Git. It helps you understand the internal mechanics of version control — including staging, committing, and diffing — all written from scratch.
+Groot is a simple, educational version control system , inspired by Git. It helps you understand the internal mechanics of version control — including staging, committing, and diffing — all written from scratch.
 
 ---
 
