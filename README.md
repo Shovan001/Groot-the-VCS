@@ -19,7 +19,7 @@ Groot is a simple, educational version control system built using Node.js, inspi
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/Shovan001/groot-vcs.git
+git clone https://github.com/Shovan001/Groot-the-VCS
 cd groot-vcs
 ```
 
